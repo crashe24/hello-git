@@ -6,3 +6,4 @@ console.log('hello worl')
 // git status
 // git commit -m "my first commit"
 // git log para ver que se haya fotogragiado
+// git checkout [filename] se vuelve a la foto ultima tomada
