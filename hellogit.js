@@ -7,3 +7,5 @@ console.log('hello worl')
 // git commit -m "my first commit"
 // git log para ver que se haya fotogragiado
 // git checkout [filename] se vuelve a la foto ultima tomada
+// git reset muestra los archivos modificados y que pueden ser fotografiados
+//
