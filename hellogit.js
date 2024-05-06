@@ -19,4 +19,5 @@ console.log('hello worl')
 // git checkout HEAD me posiciono en la rama 
 // git checkout [rama a la que necesito ir]
 // git reset descartar cambios
-// git reset hard
+// git reset --hard [45555]
+// git reflog
