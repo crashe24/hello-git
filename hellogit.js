@@ -21,3 +21,5 @@ console.log('hello worl')
 // git reset descartar cambios
 // git reset --hard [45555]
 // git reflog
+// git branch nombre_rama
+// git switch nombre_rama
