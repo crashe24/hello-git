@@ -13,3 +13,5 @@ console.log('hello worl')
 // git log --graph --decorate --all oneline
 // git  config --global alias.tree "log --graph --decorate --all --oneline"
 // touch .gitignore
+// git diff
+// desplazamiento
