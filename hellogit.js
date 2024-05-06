@@ -14,4 +14,5 @@ console.log('hello worl')
 // git  config --global alias.tree "log --graph --decorate --all --oneline"
 // touch .gitignore
 // git diff
-// desplazamiento
+// desplazamiento en el tiempo
+// git checkout 6beeaa2 "this is my first commit"
