@@ -23,3 +23,4 @@ console.log('hello worl')
 // git reflog
 // git branch nombre_rama
 // git switch nombre_rama tambien se pueden mover con checkout pero lo mejor es switch
+// gti merge 
