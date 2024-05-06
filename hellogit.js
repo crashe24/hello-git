@@ -23,4 +23,9 @@ console.log('hello worl')
 // git reflog
 // git branch nombre_rama
 // git switch nombre_rama tambien se pueden mover con checkout pero lo mejor es switch
-// gti merge 
+// git merge main --> git add . git commit -m "correccion del conflicto"
+// git stash para almacenar temporalmente mis cambios no genera un nuevo commit
+// git stash list 
+// git stash pop recuperame todo lo que estaba desarrollando
+// git stash drop se elimina el stash
+
