@@ -32,6 +32,8 @@ console.log('hello worl')
 // git diff login [ramas] puede  comparar entre ramas
 // git merge login
 // eliminar una rama git branch -d login
+// GITHUB
+//https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf
 
 
 
