@@ -16,3 +16,7 @@ console.log('hello worl')
 // git diff
 // desplazamiento en el tiempo
 // git checkout 6beeaa2 "this is my first commit"
+// git checkout HEAD me posiciono en la rama 
+// git checkout [rama a la que necesito ir]
+// git reset descartar cambios
+// git reset hard
