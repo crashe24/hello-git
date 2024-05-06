@@ -28,4 +28,13 @@ console.log('hello worl')
 // git stash list 
 // git stash pop recuperame todo lo que estaba desarrollando
 // git stash drop se elimina el stash
+// git switch main -> 
+// git diff login [ramas] puede  comparar entre ramas
+// git merge login
+
+
+
+
+
+
 
