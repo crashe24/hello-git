@@ -33,7 +33,13 @@ console.log('hello worl')
 // git merge login
 // eliminar una rama git branch -d login
 // GITHUB
+// subir al repositorio github
 //https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf
+//git remote add origin https://github.com/crashe24/hello-git.git
+//git branch -M main
+//git push -u origin main
+// trabajar con git push y git pull
+
 
 
 
